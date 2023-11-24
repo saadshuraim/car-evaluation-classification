@@ -1,12 +1,4 @@
-# Project Proposal
-
 ## Project Title: Car Evaluation Classification
-
-### Group Members:
-- **22K-8735 Taha Mustafa**
-- **22K-4108 Saad Rashid**
-- **22K-4006 Jahanzaib Qutbi**
-- **22K-8712 Sharique Shah Lakhani**
 
 ### Dataset Information:
 - **Dataset Name:** Car Evaluation
